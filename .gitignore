@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+.mypy_cache/
+.pytest_cache/
+instance/
+uploads/
+vectorstore/
+
+# Node
+client/node_modules/
+client/dist/
+
+# OS
+.DS_Store
+Thumbs.db
